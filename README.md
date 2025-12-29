@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-<!--
-**DHANUSHGCODE/DHANUSHGCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
@@ -60,11 +44,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 <br />
 
-
-
-## 🏆 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=dark)
-
 ## 🎯 About Me:
 - 🔭 I'm currently working on various full-stack and cybersecurity projects
 - 🌱 I'm continuously learning new technologies in Cloud, DevOps, and AI/ML
@@ -106,16 +85,16 @@ Here are some ideas to get you started:
 - 📦 DevOps & Docker
 - 📊 Data Analytics & Visualization
 - 🎮 Game Development with Unity
-
 - ⚙️ Automation & Scripting
+
 ## 📚 Always Learning:
 - Advanced Python & C++
 - Cloud Architecture Design
 - Kubernetes & Containerization
 - Advanced Security Practices
 - ML/AI Integration
-
 - Automation & CI/CD Pipelines
+
 ---
 
 **⭐ If you find my projects useful, please consider giving them a star! It motivates me to keep building amazing things.**
