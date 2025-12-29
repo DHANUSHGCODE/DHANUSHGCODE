@@ -40,11 +40,12 @@
 <img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
-<br />
-
-
 
 ## 🎯 About Me:
+
+
+
+
 - 🔭 I'm currently working on various full-stack and cybersecurity projects
 - 🌱 I'm continuously learning new technologies in Cloud, DevOps, and AI/ML
 - 💼 Specializing in **Multi-Domain Development** across C++, Python, Java, and Full Stack
