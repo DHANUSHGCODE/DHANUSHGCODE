@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 - 📊 Data Analytics & Visualization
 - 🎮 Game Development with Unity
 
+- ⚙️ Automation & Scripting
 ## 📚 Always Learning:
 - Advanced Python & C++
 - Cloud Architecture Design
@@ -99,6 +100,7 @@ Here are some ideas to get you started:
 - Advanced Security Practices
 - ML/AI Integration
 
+- Automation & CI/CD Pipelines
 ---
 
 **⭐ If you find my projects useful, please consider giving them a star! It motivates me to keep building amazing things.**
