@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=DHANUSHGCODE&color=0e75b6&style=flat)
 ## Hi there 👋
 
 ## Languages and Tools:
