@@ -48,6 +48,21 @@ Here are some ideas to get you started:
 <img align="left" alt="Splunk" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Maven" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kali Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Wireshark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Splunk" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" style="padding-right:10px;" />
+<img align="left" alt="OWASP ZAP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tomcat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VirtualBox" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Metasploit" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/penetration/penetration-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 <br />
 
 ## Support:
