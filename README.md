@@ -39,6 +39,9 @@
 <img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 <br>
 
 
