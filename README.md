@@ -53,10 +53,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Splunk" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tomcat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VirtualBox" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
