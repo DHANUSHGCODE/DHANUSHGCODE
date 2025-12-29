@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 <br />
 
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=dark)
 
 ## 🏆 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=dark)
