@@ -60,11 +60,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 <br />
 
-## Support:
-<a href="https://buymeacoffee.com/your_username">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Tea" height="41" width="174">
-</a>
-
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=dark)
