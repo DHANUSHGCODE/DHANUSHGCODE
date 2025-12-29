@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ## Support:
 <a href="https://buymeacoffee.com/your_username">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Tea" height="41" width="174">
 </a>
 
 
