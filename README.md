@@ -42,3 +42,65 @@ Here are some ideas to get you started:
 <a href="https://buymeacoffee.com/your_username">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
+
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=dark)
+
+## 🏆 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=dark)
+
+## 🎯 About Me:
+- 🔭 I'm currently working on various full-stack and cybersecurity projects
+- 🌱 I'm continuously learning new technologies in Cloud, DevOps, and AI/ML
+- 💼 Specializing in **Multi-Domain Development** across C++, Python, Java, and Full Stack
+- 🔒 Passionate about **Cybersecurity** and security testing with tools like OWASP ZAP, Burp Suite
+- ☁️ Experience with **Cloud Platforms**: AWS, GCP, and containerization with Docker
+- 📊 Strong background in **Data Analysis** and automation
+- 👯 I'm looking to collaborate on open-source projects
+- 💬 Ask me about web development, security testing, or cloud technologies
+- 📫 How to reach me: dhanushgedu@gmail.com
+- ⚡ Fun fact: I love exploring new technologies and solving complex problems
+
+## 🎓 Certifications & Learning:
+- **Future Interns Cyber Security Internship** (Current) - Working on security projects
+- Strong foundations in OWASP security practices
+- Experience with penetration testing and vulnerability assessment
+
+## 📈 Featured Projects:
+### FUTURE_CS Series:
+- **FUTURE_CS_03**: Secure File Upload with AES Encryption
+- **FUTURE_CS_02**: Security Alert Monitoring using Splunk
+- **FUTURE_CS_01**: Web Application Security Testing
+
+### Other Notable Projects:
+- **EcommerceHub-Pro**: Full-stack e-commerce platform with animations and real-time inventory
+- **Kali-Pentesting-Lab**: Comprehensive penetration testing environment
+- **data-science-docs-examples**: Beginner-friendly data science with NumPy, Pandas, Scikit-learn
+
+## 🤝 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanushgedu@gmail.com)
+
+## 💡 My Interests:
+- 🖥️ Full Stack Web Development
+- 🔐 Cybersecurity & Penetration Testing
+- ☁️ Cloud Computing (AWS, GCP)
+- 🤖 Machine Learning & AI
+- 📦 DevOps & Docker
+- 📊 Data Analytics & Visualization
+- 🎮 Game Development with Unity
+
+## 📚 Always Learning:
+- Advanced Python & C++
+- Cloud Architecture Design
+- Kubernetes & Containerization
+- Advanced Security Practices
+- ML/AI Integration
+
+---
+
+**⭐ If you find my projects useful, please consider giving them a star! It motivates me to keep building amazing things.**
+
+**Thanks for visiting my profile! Feel free to reach out for collaborations or discussions! 🚀**
