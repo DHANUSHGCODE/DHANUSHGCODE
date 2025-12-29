@@ -43,9 +43,7 @@
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />/>
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Audition" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/audition/audition-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="DaVinci Resolve" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="padding-right:10px;" /
 <br>
 
 
