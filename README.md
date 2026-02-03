@@ -83,11 +83,6 @@
 - Strong foundations in OWASP security practices
 - Experience with penetration testing and vulnerability assessment
 
-## 📈 Featured Projects:
-### FUTURE_CS Series:
-- **FUTURE_CS_03**: Secure File Upload with AES Encryption
-- **FUTURE_CS_02**: Security Alert Monitoring using Splunk
-- **FUTURE_CS_01**: Web Application Security Testing
 
 ### Other Notable Projects:
 - **EcommerceHub-Pro**: Full-stack e-commerce platform with animations and real-time inventory
