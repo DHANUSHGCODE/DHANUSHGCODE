@@ -20,7 +20,7 @@ Year     : Undergraduate (CSE)
 Focus    : Full Stack Dev | AI/ML | Cybersecurity | Cloud
 Email    : dhanushgedu@gmail.com
 LinkedIn : linkedin.com/in/dhanush-g-3a2a28290
-Goal     : GSoC Contributor | Open Source | Internships
+Goal     : Exploring GSoC | Open Source | Internships
 ```
 
 ---
@@ -31,7 +31,7 @@ Goal     : GSoC Contributor | Open Source | Internships
 - 🌱 Learning **Cloud Architecture, Kubernetes & Advanced ML**
 - 💼 Interning at **Future Interns** — Cybersecurity Track
 - 👯 Looking to collaborate on **open-source & security projects**
-- 🎯 Targeting **GSoC 2026** & top tech internships
+- 🎯 Exploring **GSoC** & open-source opportunities
 - ⚡ Fun fact: I debug faster with coffee ☕
 
 ---
