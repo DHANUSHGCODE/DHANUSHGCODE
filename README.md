@@ -1,119 +1,161 @@
-![Profile views](https://komarev.com/ghpvc/?username=DHANUSHGCODE&color=0e75b6&style=flat)
-## Hi there 👋
+<div align="center">
 
-## Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Nginx" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Maven" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kali Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tomcat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />/>
-<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="padding-right:10px;" /
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DHANUSH%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descAlign=50" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Alliance+University%2C+Bangalore;Full+Stack+%7C+AI%2FML+%7C+Cybersecurity;Cloud+%7C+DevOps+%7C+Open+Source;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[![Profile views](https://komarev.com/ghpvc/?username=DHANUSHGCODE&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DHANUSHGCODE)
 
-
-
-
-
-
-
-
-
-
-
+</div>
 
 ---
 
+## 🎓 About Me
 
-## 🎯 About Me:
-
-
-
-
-- 🔭 I'm currently working on various full-stack and cybersecurity projects
-- 🌱 I'm continuously learning new technologies in Cloud, DevOps, and AI/ML
-- 💼 Specializing in **Multi-Domain Development** across C++, Python, Java, and Full Stack
-- 🔒 Passionate about **Cybersecurity** and security testing with tools like OWASP ZAP, Burp Suite
-- ☁️ Experience with **Cloud Platforms**: AWS, GCP, and containerization with Docker
-- 📊 Strong background in **Data Analysis** and automation
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about web development, security testing, or cloud technologies
-- 📫 How to reach me: dhanushgedu@gmail.com
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems
-
-## 🎓 Certifications & Learning:
-- **Future Interns Cyber Security Internship** (Current) - Working on security projects
-- Strong foundations in OWASP security practices
-- Experience with penetration testing and vulnerability assessment
-
-
-### Other Notable Projects:
-- **EcommerceHub-Pro**: Full-stack e-commerce platform with animations and real-time inventory
-- **Kali-Pentesting-Lab**: Comprehensive penetration testing environment
-- **data-science-docs-examples**: Beginner-friendly data science with NumPy, Pandas, Scikit-learn
-
-## 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanushgedu@gmail.com)
-
-## 💡 My Interests:
-- 🖥️ Full Stack Web Development
-- 🔐 Cybersecurity & Penetration Testing
-- ☁️ Cloud Computing (AWS, GCP)
-- 🤖 Machine Learning & AI
-- 📦 DevOps & Docker
-- 📊 Data Analytics & Visualization
-- 🎮 Game Development with Unity
-- ⚙️ Automation & Scripting
-
-## 📚 Always Learning:
-- Advanced Python & C++
-- Cloud Architecture Design
-- Kubernetes & Containerization
-- Advanced Security Practices
-- ML/AI Integration
-- Automation & CI/CD Pipelines
+```yaml
+Name     : Dhanush G
+Role     : B.Tech Computer Science Student
+University: Alliance University, Bangalore, India
+Year     : Undergraduate (CSE)
+Focus    : Full Stack Dev | AI/ML | Cybersecurity | Cloud
+Email    : dhanushgedu@gmail.com
+LinkedIn : linkedin.com/in/dhanush-g-3a2a28290
+Goal     : GSoC Contributor | Open Source | Internships
+```
 
 ---
 
-**⭐ If you find my projects useful, please consider giving them a star! It motivates me to keep building amazing things.**
+## 🚀 What I'm Up To
 
-**Thanks for visiting my profile! Feel free to reach out for collaborations or discussions! 🚀**
+- 🔭 Building **AI-Powered Security Monitoring Platform** (GSOC-level)
+- 🌱 Learning **Cloud Architecture, Kubernetes & Advanced ML**
+- 💼 Interning at **Future Interns** — Cybersecurity Track
+- 👯 Looking to collaborate on **open-source & security projects**
+- 🎯 Targeting **GSoC 2026** & top tech internships
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Security & AI/ML
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DHANUSHGCODE&theme=tokyonight&hide_border=true" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DHANUSHGCODE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![AI Security Platform](https://github-readme-stats.vercel.app/api/pin/?username=DHANUSHGCODE&repo=AI-Powered-Security-Monitoring-Threat-Detection-Platform&theme=tokyonight&hide_border=true)](https://github.com/DHANUSHGCODE/AI-Powered-Security-Monitoring-Threat-Detection-Platform)
+[![Secure File Sharing](https://github-readme-stats.vercel.app/api/pin/?username=DHANUSHGCODE&repo=Secure-File-Sharing-System&theme=tokyonight&hide_border=true)](https://github.com/DHANUSHGCODE/Secure-File-Sharing-System)
+
+[![Cloud Resume](https://github-readme-stats.vercel.app/api/pin/?username=DHANUSHGCODE&repo=cloud-resume-website&theme=tokyonight&hide_border=true)](https://github.com/DHANUSHGCODE/cloud-resume-website)
+[![Splunk Security](https://github-readme-stats.vercel.app/api/pin/?username=DHANUSHGCODE&repo=Security-Alert-Monitoring-Incident-Response-using-Splunk&theme=tokyonight&hide_border=true)](https://github.com/DHANUSHGCODE/Security-Alert-Monitoring-Incident-Response-using-Splunk)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+| Degree | Institution | Status |
+|--------|------------|--------|
+| 🎓 B.Tech — Computer Science Engineering | Alliance University, Bangalore | Pursuing |
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| 🔐 Cyber Security Internship | Future Interns | Current |
+| ☁️ Google Cloud Arcade | Google Cloud | Completed |
+| 🔒 OWASP Security Practices | Self-study | Ongoing |
+| 🤖 AI/ML Fundamentals | Coursera | Ongoing |
+
+---
+
+## 💡 My Interests
+
+```
+🖥️ Full Stack Web Development     🔐 Cybersecurity & Penetration Testing
+☁️ Cloud Computing (AWS, GCP)      🤖 Machine Learning & AI
+📦 DevOps & Docker                 📊 Data Analytics & Visualization
+🚀 Open Source Contributions       ⚙️ Automation & CI/CD Pipelines
+```
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-g-3a2a28290)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushgedu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSHGCODE)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects useful, please star them — it motivates me to keep building! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+
+</div>
