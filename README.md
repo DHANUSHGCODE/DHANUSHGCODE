@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DHANUSH%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+<!-- Animated Name -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&height=100&lines=DHANUSH+G" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Alliance+University%2C+Bangalore;Full+Stack+%7C+AI%2FML+%7C+Cybersecurity;Cloud+%7C+DevOps+%7C+Open+Source;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Subtitle -->
+<p style="font-size:20px; color:#999;">Student | Developer | Security Enthusiast</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Alliance+University+%7C+Bangalore;Full+Stack+%7C+AI%2FML+%7C+Cybersecurity;Cloud+%7C+DevOps+%7C+Open+Source;Always+learning+%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=DHANUSHGCODE&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DHANUSHGCODE)
 
@@ -13,14 +17,14 @@
 ## 🎓 About Me
 
 ```yaml
-Name      : Dhanush G
-Role      : B.Tech Computer Science Student
-University: Alliance University, Bangalore, India
-Year      : Undergraduate (CSE)
-Focus     : Full Stack Dev | AI/ML | Cybersecurity | Cloud
-Email     : dhanushgedu@gmail.com
-LinkedIn  : linkedin.com/in/dhanush-g-3a2a28290
-Goal      : Exploring GSoC | Open Source | Internships
+Name       : Dhanush G
+Role       : B.Tech Computer Science Student
+University : Alliance University, Bangalore, India
+Year       : Undergraduate (CSE)
+Focus      : Full Stack Dev | AI/ML | Cybersecurity | Cloud
+Email      : dhanushgedu@gmail.com
+LinkedIn   : linkedin.com/in/dhanush-g-3a2a28290
+Goal       : Exploring GSoC | Open Source | Internships
 ```
 
 ---
@@ -37,8 +41,6 @@ Goal      : Exploring GSoC | Open Source | Internships
 ---
 
 ## 🛠️ Languages & Tools
-
-<div align="center">
 
 ### 💻 Languages
 
@@ -94,20 +96,16 @@ Goal      : Exploring GSoC | Open Source | Internships
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANUSHGCODE&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DHANUSHGCODE&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -117,15 +115,13 @@ Goal      : Exploring GSoC | Open Source | Internships
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DHANUSHGCODE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+![trophy](https://github-profile-trophy.vercel.app/?username=DHANUSHGCODE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
 ---
 
 ## 📌 Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -134,26 +130,20 @@ Goal      : Exploring GSoC | Open Source | Internships
 | ☁️ [Cloud Resume](https://github.com/DHANUSHGCODE/cloud-resume-website) | AWS S3 + CloudFront + Lambda + DynamoDB resume site | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) |
 | 🚨 [Splunk SIEM](https://github.com/DHANUSHGCODE/Security-Alert-Monitoring-Incident-Response-using-Splunk) | Security alert monitoring & incident response on Apache logs | ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white) |
 
-</div>
-
 ---
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-
 | 🎓 Degree | 🏢 Institution | 📍 Status |
-|--------|------------|--------|
+|-----------|----------------|----------|
 | B.Tech — Computer Science Engineering | Alliance University, Bangalore | 🟡 Pursuing |
 
 | 🏅 Certification | 🏢 Issuer | 📍 Status |
-|---------------|--------|--------|
+|------------------|-----------|----------|
 | 🔐 Cyber Security Internship | Future Interns | 🟢 Current |
 | ☁️ Google Cloud Arcade | Google Cloud | ✅ Completed |
 | 🔒 OWASP Security Practices | Self-study | 🔵 Ongoing |
 | 🤖 AI/ML Fundamentals | Coursera | 🔵 Ongoing |
-
-</div>
 
 ---
 
@@ -161,9 +151,15 @@ Goal      : Exploring GSoC | Open Source | Internships
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-g-3a2a28290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-g-3a2a28290)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushgedu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSHGCODE)
+
+</div>
+
+<div align="center">
+
+**⭐ If you find my projects useful, please star them — it keeps me going! 🚀**
 
 </div>
 
@@ -171,8 +167,6 @@ Goal      : Exploring GSoC | Open Source | Internships
 
 <div align="center">
 
-**⭐ If you find my projects useful, please star them — it keeps me going! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
 </div>
