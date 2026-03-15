@@ -33,7 +33,7 @@ Goal       : Exploring GSoC | Open Source | Internships
 
 - 🔭 Building **AI-Powered Security Monitoring Platform** (GSOC-level)
 - 🌱 Learning **Cloud Architecture, Kubernetes & Advanced ML**
-- 💼 Interning at **Future Interns** — Cybersecurity Track
+- 💼 Completed **Future Interns** Cybersecurity Internship ✅
 - 👯 Looking to collaborate on **open-source & security projects**
 - 🎯 Exploring **GSoC** & open-source opportunities
 - ⚡ Fun fact: I debug faster with coffee ☕
@@ -140,8 +140,8 @@ Goal       : Exploring GSoC | Open Source | Internships
 
 | 🏅 Certification | 🏢 Issuer | 📍 Status |
 |------------------|-----------|----------|
-| 🔐 Cyber Security Internship | Future Interns | 🟢 Current |
-| ☁️ Google Cloud Arcade | Google Cloud | ✅ Completed |
+| 🔐 Cyber Security Internship | Future Interns | ✅ Completed |
+| ☁️ Google Cloud Arcade | Google Cloud | 🟢 Current |
 | 🔒 OWASP Security Practices | Self-study | 🔵 Ongoing |
 | 🤖 AI/ML Fundamentals | Coursera | 🔵 Ongoing |
 
