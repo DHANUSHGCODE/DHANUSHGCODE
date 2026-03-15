@@ -142,8 +142,8 @@ Goal       : Exploring GSoC | Open Source | Internships
 |------------------|-----------|----------|
 | 🔐 Cyber Security Internship | Future Interns | ✅ Completed |
 | ☁️ Google Cloud Arcade | Google Cloud | 🟢 Current |
-| 🔒 OWASP Security Practices | Self-study | 🔵 Ongoing |
-| 🤖 AI/ML Fundamentals | Coursera | 🔵 Ongoing |
+| 🔒 OWASP Security Practices | Self-study | ✅ Completed |
+| 🤖 AI/ML Fundamentals | Coursera | ✅ Completed |
 
 ---
 
