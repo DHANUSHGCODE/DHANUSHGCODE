@@ -98,7 +98,7 @@ Goal       : Exploring GSoC | Open Source | Internships
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  <picture>   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHANUSHGCODE/DHANUSHGCODE/output/github-snake-dark.svg" />   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHANUSHGCODE/DHANUSHGCODE/output/github-snake.svg" />   <img alt="github-snake" src="https://raw.githubusercontent.com/DHANUSHGCODE/DHANUSHGCODE/output/github-snake.svg" /> </picture>
 
 <div align="center">
 
