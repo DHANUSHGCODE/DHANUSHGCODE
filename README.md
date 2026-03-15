@@ -134,9 +134,7 @@ Goal       : Exploring GSoC | Open Source | Internships
 
 ## 🎓 Education & Certifications
 
-| 🎓 Degree | 🏢 Institution | 📍 Status |
-|-----------|----------------|----------|
-| B.Tech — Computer Science Engineering | Alliance University, Bangalore | 🟡 Pursuing |
+
 
 | 🏅 Certification | 🏢 Issuer | 📍 Status |
 |------------------|-----------|----------|
