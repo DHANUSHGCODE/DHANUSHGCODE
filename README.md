@@ -23,7 +23,7 @@ University : Alliance University, Bangalore, India
 Degree     : B.Tech Computer Science Engineering (Undergraduate)
 Specialty  : Full Stack Development | AI/ML | Cybersecurity | Cloud
 Email      : dhanushgedu@gmail.com
-LinkedIn   : linkedin.com/in/dhanush-g-3a2a28290
+LinkedIn   : linkedin.com/in/dhanush-g-
 Goal       : Contributing to GSoC | Open Source | Building scalable systems
 ```
 
@@ -124,7 +124,7 @@ Goal       : Contributing to GSoC | Open Source | Building scalable systems
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-g-3a2a28290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-g-)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSHGCODE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushgedu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/DHANUSHGCODE)
