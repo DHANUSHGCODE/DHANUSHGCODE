@@ -1,4 +1,3 @@
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap');
 *{box-sizing:border-box;margin:0;padding:0}
@@ -6,7 +5,7 @@
 body{background:var(--bg);color:var(--text);font-family:var(--sans);padding:0;min-height:100vh}
 .readme{max-width:680px;margin:0 auto;padding:1.5rem 1rem}
 .header{text-align:center;padding:2rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:1.5rem}
-.name-line{font-size:2rem;font-weight:600;font-family:var(--sans);letter-spacing:-0.5px;margin-bottom:0.25rem}
+.name-line{font-size:2rem;font-weight:600;letter-spacing:-0.5px;margin-bottom:0.25rem}
 .name-line span{color:var(--accent)}
 .tagline{font-size:0.85rem;color:var(--muted);font-family:var(--mono);margin-bottom:1rem;letter-spacing:0.5px}
 .badges{display:flex;gap:6px;justify-content:center;flex-wrap:wrap;margin-bottom:0.75rem}
@@ -55,11 +54,11 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);padding:0;mi
 .connect-row{display:flex;gap:8px;flex-wrap:wrap}
 .connect-btn{display:flex;align-items:center;gap:6px;font-size:12px;font-family:var(--mono);padding:6px 12px;border-radius:6px;border:1px solid var(--border);color:var(--text);background:var(--surface);text-decoration:none;cursor:pointer;transition:border-color 0.15s}
 .connect-btn:hover{border-color:var(--accent);color:var(--accent)}
-.connect-btn .dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0}
 .footer{text-align:center;padding-top:1.5rem;border-top:1px solid var(--border);margin-top:1rem}
 .footer p{font-size:12px;color:var(--muted);font-family:var(--mono);line-height:1.8}
 .footer .quote{font-style:italic;color:var(--text);margin-bottom:4px}
 .open-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-family:var(--mono);padding:3px 10px;border-radius:20px;border:1px solid var(--green);color:var(--green);background:rgba(63,185,80,0.08);margin-top:8px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0}
 </style>
 
 <div class="readme">
@@ -85,7 +84,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);padding:0;mi
     <div><span class="yaml-key">status      </span><span class="yaml-val">: </span><span class="yaml-tag">Open to internships &amp; open-source 🟢</span></div>
     <div><span class="yaml-key">building    </span><span class="yaml-val">: </span><span class="yaml-str">AI Security Platform · ATS Resume AI · Cloud Resume</span></div>
     <div><span class="yaml-key">learning    </span><span class="yaml-val">: </span><span class="yaml-str">LLM fine-tuning · MLOps · Kubernetes · Rust</span></div>
-    <div><span class="yaml-key">goal        </span><span class="yaml-val">: </span><span class="yaml-str">GSoC 2026 · Scalable intelligent systems</span></div>
+    <div><span class="yaml-key">goal        </span><span class="yaml-val">: </span><span class="yaml-str">GSoC · Scalable intelligent systems</span></div>
     <div><span class="yaml-key">email       </span><span class="yaml-val">: </span><span class="yaml-str">dhanushgedu@gmail.com</span></div>
   </div>
 </div>
@@ -113,8 +112,8 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);padding:0;mi
     </div>
     <div class="curr-card">
       <div class="curr-icon">🎯</div>
-      <div class="curr-title">GSoC 2026 Prep</div>
-      <div class="curr-desc">Contributing to open-source security tools, building GSOC-level projects and community presence</div>
+      <div class="curr-title">GSoC Prep</div>
+      <div class="curr-desc">Contributing to open-source security tools, building GSoC-level projects and community presence</div>
       <div class="curr-tag">► Targeting security orgs</div>
     </div>
   </div>
@@ -195,17 +194,17 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);padding:0;mi
   <div class="exp-list">
     <div class="exp-item"><div class="exp-dot"></div><div><div class="exp-title">Cybersecurity Internship — Future Interns</div><div class="exp-sub">Network analysis · Splunk SIEM · Secure File Sharing system (Task 3)</div></div></div>
     <div class="exp-item"><div class="exp-dot"></div><div><div class="exp-title">Google Cloud Skills Boost</div><div class="exp-sub">Hands-on GCP labs · BigQuery · Kubernetes · Cloud networking</div></div></div>
-    <div class="exp-item"><div class="exp-dot"></div><div><div class="exp-title">GSoC 2026 Aspirant</div><div class="exp-sub">Building open-source AI/security tools at GSoC contribution level</div></div></div>
+    <div class="exp-item"><div class="exp-dot"></div><div><div class="exp-title">GSoC Aspirant</div><div class="exp-sub">Building open-source AI/security tools at GSoC contribution level</div></div></div>
   </div>
 </div>
 
 <div class="section">
   <div class="section-label">connect</div>
   <div class="connect-row">
-    <a class="connect-btn" href="https://linkedin.com/in/dhanush-g-"><i class="ti ti-brand-linkedin" aria-hidden="true"></i>LinkedIn</a>
-    <a class="connect-btn" href="https://dhanushgcode.github.io"><i class="ti ti-world" aria-hidden="true"></i>Portfolio</a>
-    <a class="connect-btn" href="mailto:dhanushgedu@gmail.com"><i class="ti ti-mail" aria-hidden="true"></i>Email</a>
-    <a class="connect-btn" href="https://github.com/DHANUSHGCODE"><i class="ti ti-brand-github" aria-hidden="true"></i>GitHub</a>
+    <a class="connect-btn" href="https://linkedin.com/in/dhanush-g-">LinkedIn</a>
+    <a class="connect-btn" href="https://dhanushgcode.github.io">Portfolio</a>
+    <a class="connect-btn" href="mailto:dhanushgedu@gmail.com">Email</a>
+    <a class="connect-btn" href="https://github.com/DHANUSHGCODE">GitHub</a>
   </div>
 </div>
 
