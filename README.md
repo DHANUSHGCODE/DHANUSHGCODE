@@ -30,7 +30,6 @@
 └─$ cat about_me.json
 ```
 
-```json
 {
   "name"         : "Dhanush G",
   "role"         : ["AI Engineer", "Cybersecurity Explorer", "Multi-Domain Builder"],
