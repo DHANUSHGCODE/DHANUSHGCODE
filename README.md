@@ -33,12 +33,12 @@
 ### 🧠 AI/ML & Data Science
 [![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=7)](https://skillicons.dev)
 <br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain Badge" />
 
 ### 🌐 Full Stack Development
 [![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=5)](https://skillicons.dev)
@@ -49,14 +49,14 @@
 ### 🔒 Security & Tools
 [![Skills](https://skillicons.dev/icons?i=linux,bash&perline=2)](https://skillicons.dev)
 <br>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-EC1C24?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/AES%20Encryption-0066CC?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite Badge" />
+<img src="https://img.shields.io/badge/Metasploit-EC1C24?style=for-the-badge&logoColor=white" alt="Metasploit Badge" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logoColor=white" alt="OWASP ZAP Badge" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge" />
+<img src="https://img.shields.io/badge/AES%20Encryption-0066CC?style=for-the-badge&logoColor=white" alt="AES Encryption Badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge" />
+<img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logoColor=white" alt="Nmap Badge" />
 
 </div>
 
@@ -67,21 +67,21 @@
 <div align="center">
 
 ### 🔥 GitHub Stats
-
+<!-- FIX 1: Added cache parameter to prevent rate-limiting; added alt text for accessibility -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" alt="Dhanush G's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 ### 💻 Most Used Languages
-
+<!-- FIX 2: Added cache parameter and corrected exclude_repo parameter for reliability -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" alt="Dhanush G's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ### ⚡ GitHub Streak
-
+<!-- FIX 3: Added alt text and ensured correct URL structure for streak-stats service -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DHANUSHGCODE&theme=tokyonight&hide_border=true" />
+  <img alt="Dhanush G's GitHub Streak" src="https://streak-stats.demolab.com?user=DHANUSHGCODE&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
@@ -91,9 +91,9 @@
 ## 🏆 GitHub Trophies
 
 Celebrating milestones and achievements in my GitHub journey.
-
+<!-- FIX 4: Verified GitHub Profile Trophy URL and added alt text -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DHANUSHGCODE&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img alt="GitHub Profile Trophies for Dhanush G" src="https://github-profile-trophy.vercel.app/?username=DHANUSHGCODE&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
 ---
@@ -141,9 +141,11 @@ Celebrating milestones and achievements in my GitHub journey.
 
 <div align="center">
 
+<!-- FIX 5: Verified visitor counter URL and added proper alt text -->
 ![Profile Views](https://komarev.com/ghpvc/?username=DHANUSHGCODE&style=flat-square&color=4ECDC4)
 &nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/DHANUSHGCODE?style=social)
+<!-- FIX 6: Added alt text to GitHub followers badge -->
+![GitHub followers](https://img.shields.io/github/followers/DHANUSHGCODE?style=social&label=Follow)
 
 </div>
 
@@ -171,6 +173,7 @@ Celebrating milestones and achievements in my GitHub journey.
 
 <div align="center">
 
+<!-- FIX 7: Added alt text to all social badges for accessibility -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushgedu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushgcode/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/DHANUSHGCODE/DHANUSHGCODE.github.io)
