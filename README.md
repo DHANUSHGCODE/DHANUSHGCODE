@@ -88,6 +88,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+Celebrating milestones and achievements in my GitHub journey.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DHANUSHGCODE&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
