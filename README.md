@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🤖 **AI Engineer** specializing in AI-driven applications and intelligent systems
 - 💻 **Full Stack Developer** crafting end-to-end web solutions with modern tech stack
@@ -66,17 +66,23 @@
 
 <div align="center">
 
-### 🔥 My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff&count_private=true)](https://github.com/DHANUSHGCODE)
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHANUSHGCODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
 ### 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=ffffff)](https://github.com/DHANUSHGCODE)
 
-### 🐍 Contribution Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DHANUSHGCODE&theme=radical&hide_border=true&background=0d1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&dates=ffffff)](https://github.com/DHANUSHGCODE)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHGCODE&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 📈 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHANUSHGCODE&theme=radical&hide_border=true&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=ffffff&area_color=FF6B6B)](https://github.com/DHANUSHGCODE)
+### ⚡ GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DHANUSHGCODE&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
@@ -90,32 +96,32 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[ATS-Score-Booster](https://github.com/DHANUSHGCODE/ATS-Score-Booster)** | 🎯 AI resume analyzer using ATS algorithms. Provides intelligent feedback on keyword optimization & formatting | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square) ![API](https://img.shields.io/badge/API-4ECDC4?style=flat-square) |
+| **[ATS-Score-Booster](https://github.com/DHANUSHGCODE/ATS-Score-Booster)** | 🎯 AI resume analyzer using ATS algorithms. Provides intelligent feedback on keyword optimization & formatting | AI, Python |
 
 ### 💼 Full Stack Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[EcommerceHub-Pro](https://github.com/DHANUSHGCODE/EcommerceHub-Pro)** | 🛒 Professional e-commerce platform with real-time inventory, admin panel & payment processing | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **[Cloud Resume Website](https://github.com/DHANUSHGCODE/cloud-resume-website)** | ☁️ Serverless portfolio on AWS with CI/CD via GitHub Actions & visitor counter using Lambda | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square) ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white) |
-| **[Student Management System](https://github.com/DHANUSHGCODE/Student-Management-System)** | 👨‍🎓 Full-featured CLI with CRUD operations, file handling (JSON) & role-based authentication | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-555555?style=flat-square) |
+| **[EcommerceHub-Pro](https://github.com/DHANUSHGCODE/EcommerceHub-Pro)** | 🛒 Professional e-commerce platform with real-time inventory, admin panel & payment processing | JavaScript, Node.js |
+| **[Cloud Resume Website](https://github.com/DHANUSHGCODE/cloud-resume-website)** | ☁️ Serverless portfolio on AWS with CI/CD via GitHub Actions & visitor counter using Lambda | AWS, Serverless |
+| **[Student Management System](https://github.com/DHANUSHGCODE/Student-Management-System)** | 👨‍🎓 Full-featured CLI with CRUD operations, file handling (JSON) & role-based authentication | Python |
 
 ### 🔒 Cybersecurity Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Secure File Sharing System](https://github.com/DHANUSHGCODE/Secure-File-Sharing-System)** | 🔐 Enterprise-grade file app with AES-256 encryption - Future Interns Internship Task | ![AES](https://img.shields.io/badge/AES%20Encryption-0066CC?style=flat-square) ![Security](https://img.shields.io/badge/Web%20Security-FF6B6B?style=flat-square) ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) |
-| **[Security Alert Monitoring with Splunk](https://github.com/DHANUSHGCODE/Security-Alert-Monitoring-Incident-Response-using-Splunk)** | 🛡️ SIEM incident response analyzing Apache logs for threats - Future Interns Task | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM-FF6B6B?style=flat-square) ![Log%20Analysis](https://img.shields.io/badge/Log%20Analysis-4ECDC4?style=flat-square) |
-| **[Web Application Security Testing](https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing)** | 🧪 Vulnerability assessment: SQL Injection, XSS, Authentication flaws on DVWA | ![Burp](https://img.shields.io/badge/Burp%20Suite-FF6B35?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square) ![SQLMap](https://img.shields.io/badge/SQLMap-FF0000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[Kali Pentesting Lab](https://github.com/DHANUSHGCODE/Kali-Pentesting-Lab)** | 🖥️ Comprehensive ethical hacking lab setup with Metasploitable2 & DVWA documentation | ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-EC1C24?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[Secure File Sharing System](https://github.com/DHANUSHGCODE/Secure-File-Sharing-System)** | 🔐 Enterprise-grade file app with AES-256 encryption | Python, AES |
+| **[Security Alert Monitoring with Splunk](https://github.com/DHANUSHGCODE/Security-Alert-Monitoring-Incident-Response-using-Splunk)** | 🛡️ SIEM incident response analyzing Apache logs | Splunk |
+| **[Web Application Security Testing](https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing)** | 🧪 Vulnerability assessment: SQL Injection, XSS, Authentication flaws on DVWA | Web pentesting |
+| **[Kali Pentesting Lab](https://github.com/DHANUSHGCODE/Kali-Pentesting-Lab)** | 🖥️ Comprehensive ethical hacking lab setup with Metasploitable2 & DVWA documentation | Kali, Metasploit |
 
 ### 📚 Learning & Resources
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Data Science Docs & Examples](https://github.com/DHANUSHGCODE/data-science-docs-examples)** | 📊 Comprehensive beginner-friendly docs with practical runnable examples | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
-| **[Neon City Adventure](https://github.com/DHANUSHGCODE/Neon-City-Adventure)** | 🎮 Interactive futuristic game with cyberpunk visuals using AI-generated assets | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GoogleAI](https://img.shields.io/badge/Google%20AI%20Studio-FF6B6B?style=flat-square) ![Interactive](https://img.shields.io/badge/Interactive-4ECDC4?style=flat-square) |
-| **[Advanced Portfolio Website](https://github.com/DHANUSHGCODE/DHANUSHGCODE.github.io)** | 🌐 Professional portfolio showcasing Full Stack, AI/ML & Data Analytics projects | ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[Data Science Docs & Examples](https://github.com/DHANUSHGCODE/data-science-docs-examples)** | 📊 Comprehensive beginner-friendly docs with practical runnable examples | Python | 
+| **[Neon City Adventure](https://github.com/DHANUSHGCODE/Neon-City-Adventure)** | 🎮 Interactive futuristic game with cyberpunk visuals using AI-generated assets | TypeScript |
+| **[Advanced Portfolio Website](https://github.com/DHANUSHGCODE/DHANUSHGCODE.github.io)** | 🌐 Professional portfolio showcasing Full Stack, AI/ML & Data Analytics projects | HTML, CSS |
 
 </div>
 
@@ -171,7 +177,7 @@
 ✅ **Internships** in AI/ML, Full Stack Development, or Cybersecurity  
 ✅ **Freelance Projects** involving AI, Security, or Web Development  
 ✅ **Collaborations** on innovative tech solutions  
-✅ **Open Source Contributions** to impactful projects  
+✅ **Open Source Contributions** to impactful projects
 
 </div>
 
@@ -185,7 +191,7 @@
 🔐 Advanced cybersecurity solutions & threat detection  
 📊 Data-driven insights with ML analytics  
 ☁️ Serverless cloud architecture & DevOps  
-🚀 Innovative full-stack solutions  
+🚀 Innovative full-stack solutions
 
 </div>
 
