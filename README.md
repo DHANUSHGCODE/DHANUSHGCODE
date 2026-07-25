@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=DHANUSH&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=DHANUSH%20G&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
 
-# 👋 Hi, I'm **DHANUSH G**
+# 👋 Hi, I'm **Dhanush G**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&width=600&lines=AI+Engineer+🤖;Full+Stack+Developer+💻;Cybersecurity+Specialist+🔒;Data+Analytics+Enthusiast+📊;Open+to+Internships+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&width=600&lines=AI+Engineer+🤖;Full+Stack+Developer+💻;Cybersecurity+Specialist+🔒;Data+Analyst+📊)](https://github.com/DHANUSHGCODE)
 
 </div>
 
@@ -96,23 +96,23 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[ATS-Score-Booster](https://github.com/DHANUSHGCODE/ATS-Score-Booster)** | 🎯 AI resume analyzer using ATS algorithms. Provides intelligent feedback on keyword optimization & formatting | AI, Python |
+| **[ATS-Score-Booster](https://github.com/DHANUSHGCODE/ATS-Score-Booster)** | 🎯 AI resume analyzer using ATS algorithms. Provides intelligent feedback on keyword optimization & formatting | AI, LangChain, Gemini |
 
 ### 💼 Full Stack Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[EcommerceHub-Pro](https://github.com/DHANUSHGCODE/EcommerceHub-Pro)** | 🛒 Professional e-commerce platform with real-time inventory, admin panel & payment processing | JavaScript, Node.js |
-| **[Cloud Resume Website](https://github.com/DHANUSHGCODE/cloud-resume-website)** | ☁️ Serverless portfolio on AWS with CI/CD via GitHub Actions & visitor counter using Lambda | AWS, Serverless |
-| **[Student Management System](https://github.com/DHANUSHGCODE/Student-Management-System)** | 👨‍🎓 Full-featured CLI with CRUD operations, file handling (JSON) & role-based authentication | Python |
+| **[EcommerceHub-Pro](https://github.com/DHANUSHGCODE/EcommerceHub-Pro)** | 🛒 Professional e-commerce platform with real-time inventory, admin panel & payment processing | JavaScript, Node.js, Express, React |
+| **[Cloud Resume Website](https://github.com/DHANUSHGCODE/cloud-resume-website)** | ☁️ Serverless portfolio on AWS with CI/CD via GitHub Actions & visitor counter using Lambda | AWS, Serverless, CI/CD |
+| **[Student Management System](https://github.com/DHANUSHGCODE/Student-Management-System)** | 👨‍🎓 Full-featured CLI with CRUD operations, file handling (JSON) & role-based authentication | Java, OOP |
 
 ### 🔒 Cybersecurity Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **[Secure File Sharing System](https://github.com/DHANUSHGCODE/Secure-File-Sharing-System)** | 🔐 Enterprise-grade file app with AES-256 encryption | Python, AES |
-| **[Security Alert Monitoring with Splunk](https://github.com/DHANUSHGCODE/Security-Alert-Monitoring-Incident-Response-using-Splunk)** | 🛡️ SIEM incident response analyzing Apache logs | Splunk |
-| **[Web Application Security Testing](https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing)** | 🧪 Vulnerability assessment: SQL Injection, XSS, Authentication flaws on DVWA | Web pentesting |
+| **[Security Alert Monitoring with Splunk](https://github.com/DHANUSHGCODE/Security-Alert-Monitoring-Incident-Response-using-Splunk)** | 🛡️ SIEM incident response analyzing Apache logs | Splunk, SIEM |
+| **[Web Application Security Testing](https://github.com/DHANUSHGCODE/wed-vernumbalitys-testing)** | 🧪 Vulnerability assessment: SQL Injection, XSS, Authentication flaws on DVWA | Web pentest tools |
 | **[Kali Pentesting Lab](https://github.com/DHANUSHGCODE/Kali-Pentesting-Lab)** | 🖥️ Comprehensive ethical hacking lab setup with Metasploitable2 & DVWA documentation | Kali, Metasploit |
 
 ### 📚 Learning & Resources
