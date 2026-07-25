@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=DHANUSH&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=55"/>
 
-# 👋 Hi, I'm **DHANUSH**
+# 👋 Hi, I'm **DHANUSH G**
 
 <div align="center">
 
